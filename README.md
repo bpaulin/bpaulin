@@ -1,3 +1,4 @@
+![Skills banner](skills-banner.png)
 
  * Human since 1980
  * Developer since 1997
