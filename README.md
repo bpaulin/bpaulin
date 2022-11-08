@@ -1,4 +1,4 @@
-![Skills banner](skills-banner.png)
+>![Skills banner](skills-banner.png)
 
  * Human since 1980
  * Developer since 1997
@@ -6,5 +6,5 @@
  * Lyonnais since 2012
  * Husband since 2014
  * Dad since 2017
- * [@bpaulin-oneup](https://www.github.com/bpaulin-oneup)
+ * [@bpaulin-oneup](https://www.github.com/bpaulin-oneup) since 2022
 
