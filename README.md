@@ -1,4 +1,6 @@
->![Skills banner](skills-banner.png)
+> [@bpaulin-oneup](https://www.github.com/bpaulin-oneup) when I work, @bpaulin when I don't
+
+![Skills banner](skills-banner.png)
 
  * Human since 1980
  * Developer since 1997
