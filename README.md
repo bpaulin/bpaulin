@@ -6,4 +6,5 @@
  * Lyonnais since 2012
  * Husband since 2014
  * Dad since 2017
+ * [@bpaulin-oneup](https://www.github.com/bpaulin-oneup)
 
